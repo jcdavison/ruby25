@@ -1,1 +1,1 @@
-![jcdavison shout out](/images/jdavison.png "JCDAVISON")
+![jcdavison shout out](img/jcdavison.png)
